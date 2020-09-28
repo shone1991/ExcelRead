@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExcelRead:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExcelRead_jar</output-path>
+    <root id="archive" name="ExcelRead.jar">
+      <element id="module-output" name="ExcelRead" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/exc_lib/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/exc_lib/poi-ooxml-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/exc_lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/exc_lib/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/exc_lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/Resources/conf.properties" />
+    </root>
+  </artifact>
+</component>
